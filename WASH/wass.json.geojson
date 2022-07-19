@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "wass",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 1, "activity": "WASH assessment", "date": "2022-04-21", "desc": "Comprehensive WASH needs assessment conducted.", "benific": null, "dataset_id": "w7" }, "geometry": { "type": "Point", "coordinates": [ -16.550272892154272, 12.493684807638449 ] } },
+{ "type": "Feature", "properties": { "id": 3, "activity": "WASH assessment", "date": "2022-02-22", "desc": "Comprehensive WASH needs assessment conducted.", "benific": null, "dataset_id": "w7" }, "geometry": { "type": "Point", "coordinates": [ -16.279475439397523, 12.551877288945461 ] } },
+{ "type": "Feature", "properties": { "id": 4, "activity": "WASH assessment", "date": "2022-03-22", "desc": "Comprehensive WASH needs assessment conducted.", "benific": null, "dataset_id": "w7" }, "geometry": { "type": "Point", "coordinates": [ -16.015543391738792, 12.625859506394814 ] } },
+{ "type": "Feature", "properties": { "id": 2, "activity": "WASH assessment", "date": "2022-05-04", "desc": "Comprehensive WASH needs assessment conducted.", "benific": null, "dataset_id": "w7" }, "geometry": { "type": "Point", "coordinates": [ -16.433088008986807, 12.674995495870398 ] } }
+]
+}

@@ -1,0 +1,17 @@
+{
+"type": "FeatureCollection",
+"name": "htraining",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 1, "activity": "Household nutritional training", "date": "2022-02-16", "desc": "Training on improved nutrition for entire household.", "benefic": 150, "dataset_id": "h1" }, "geometry": null },
+{ "type": "Feature", "properties": { "id": 2, "activity": "Household nutritional training", "date": "2022-03-06", "desc": "Training on improved nutrition for entire household.", "benefic": 432, "dataset_id": "h1" }, "geometry": { "type": "Point", "coordinates": [ -16.258729281616546, 12.579298105864192 ] } },
+{ "type": "Feature", "properties": { "id": 3, "activity": "Household nutritional training", "date": "2022-05-08", "desc": "Training on improved nutrition for entire household.", "benefic": 174, "dataset_id": "h1" }, "geometry": { "type": "Point", "coordinates": [ -16.238052596552361, 12.501364073296324 ] } },
+{ "type": "Feature", "properties": { "id": 4, "activity": "Household nutritional training", "date": "2022-03-14", "desc": "Training on improved nutrition for entire household.", "benefic": 374, "dataset_id": "h1" }, "geometry": { "type": "Point", "coordinates": [ -16.195431833090133, 12.524303359758623 ] } },
+{ "type": "Feature", "properties": { "id": 5, "activity": "Household nutritional training", "date": "2022-03-13", "desc": "Training on improved nutrition for entire household.", "benefic": 256, "dataset_id": "h1" }, "geometry": { "type": "Point", "coordinates": [ -16.245456708966834, 12.473201522076179 ] } },
+{ "type": "Feature", "properties": { "id": 6, "activity": "Household nutritional training", "date": "2022-02-20", "desc": "Training on improved nutrition for entire household.", "benefic": 139, "dataset_id": "h1" }, "geometry": { "type": "Point", "coordinates": [ -16.362630153431532, 12.477563217389433 ] } },
+{ "type": "Feature", "properties": { "id": 7, "activity": "Household nutritional training", "date": "2021-10-18", "desc": "Training on improved nutrition for entire household.", "benefic": 189, "dataset_id": "h1" }, "geometry": { "type": "Point", "coordinates": [ -16.354229851346744, 12.536634572434366 ] } },
+{ "type": "Feature", "properties": { "id": 8, "activity": "Household nutritional training", "date": "2021-03-22", "desc": "Training on improved nutrition for entire household.", "benefic": 137, "dataset_id": "h1" }, "geometry": { "type": "Point", "coordinates": [ -16.345506460720237, 12.495925416177329 ] } },
+{ "type": "Feature", "properties": { "id": 9, "activity": "Household nutritional training", "date": "2021-09-23", "desc": "Training on improved nutrition for entire household.", "benefic": 327, "dataset_id": "h1" }, "geometry": { "type": "Point", "coordinates": [ -16.558630471065239, 12.445685147939471 ] } },
+{ "type": "Feature", "properties": { "id": 10, "activity": "Household nutritional training", "date": "2021-09-20", "desc": "Training on improved nutrition for entire household.", "benefic": 300, "dataset_id": "h1" }, "geometry": { "type": "Point", "coordinates": [ -16.58064760898138, 12.556087195050566 ] } }
+]
+}

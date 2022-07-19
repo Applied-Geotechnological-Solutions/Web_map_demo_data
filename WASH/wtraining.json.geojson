@@ -1,0 +1,17 @@
+{
+"type": "FeatureCollection",
+"name": "wtraining",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 10, "activity": "Training", "date": "2022-03-24", "desc": "Household and personal hygiene and water treatment training conducted.", "benific": 800, "dataset_id": "w6" }, "geometry": { "type": "Point", "coordinates": [ -16.381478062321239, 12.620257743910269 ] } },
+{ "type": "Feature", "properties": { "id": 3, "activity": "Training", "date": "2022-02-14", "desc": "Household and personal hygiene and water treatment training conducted.", "benific": 869, "dataset_id": "w6" }, "geometry": { "type": "Point", "coordinates": [ -16.372574598769603, 12.610130054120285 ] } },
+{ "type": "Feature", "properties": { "id": 4, "activity": "Training", "date": "2022-01-26", "desc": "Household and personal hygiene and water treatment training conducted.", "benific": 578, "dataset_id": "w6" }, "geometry": { "type": "Point", "coordinates": [ -16.385104368830284, 12.617456862667986 ] } },
+{ "type": "Feature", "properties": { "id": 1, "activity": "Training", "date": "2022-02-15", "desc": "Household and personal hygiene and water treatment training conducted.", "benific": 467, "dataset_id": "w6" }, "geometry": { "type": "Point", "coordinates": [ -16.41938270350408, 12.459791362274458 ] } },
+{ "type": "Feature", "properties": { "id": 2, "activity": "Training", "date": "2022-02-23", "desc": "Household and personal hygiene and water treatment training conducted.", "benific": 567, "dataset_id": "w6" }, "geometry": { "type": "Point", "coordinates": [ -16.374469676254726, 12.47047551853642 ] } },
+{ "type": "Feature", "properties": { "id": 7, "activity": "Training", "date": "2021-12-22", "desc": "Household and personal hygiene and water treatment training conducted.", "benific": 564, "dataset_id": "w6" }, "geometry": { "type": "Point", "coordinates": [ -16.410281385206854, 12.407359854692611 ] } },
+{ "type": "Feature", "properties": { "id": 8, "activity": "Training", "date": "2022-02-24", "desc": "Household and personal hygiene and water treatment training conducted.", "benific": 756, "dataset_id": "w6" }, "geometry": { "type": "Point", "coordinates": [ -16.36724797804062, 12.45801066956413 ] } },
+{ "type": "Feature", "properties": { "id": 5, "activity": "Training", "date": "2022-06-22", "desc": "Household and personal hygiene and water treatment training conducted.", "benific": 876, "dataset_id": "w6" }, "geometry": { "type": "Point", "coordinates": [ -16.278386465426671, 12.551484670934695 ] } },
+{ "type": "Feature", "properties": { "id": 6, "activity": "Training", "date": "2022-01-11", "desc": "Household and personal hygiene and water treatment training conducted.", "benific": 876, "dataset_id": "w6" }, "geometry": { "type": "Point", "coordinates": [ -16.625145455958801, 12.446930803811 ] } },
+{ "type": "Feature", "properties": { "id": 9, "activity": "Training", "date": "2022-02-22", "desc": "Household and personal hygiene and water treatment training conducted.", "benific": 678, "dataset_id": "w6" }, "geometry": { "type": "Point", "coordinates": [ -16.635875984426761, 12.456126412260421 ] } }
+]
+}

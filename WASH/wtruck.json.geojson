@@ -1,0 +1,17 @@
+{
+"type": "FeatureCollection",
+"name": "wtruck",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 1, "activity": "Water trucking", "date": "2022-04-13", "desc": "Emergency water distribution in response to broken water infrastructure.", "benific": 1000, "dataset_id": "w8" }, "geometry": { "type": "Point", "coordinates": [ -16.417043225711485, 12.65672948392772 ] } },
+{ "type": "Feature", "properties": { "id": 2, "activity": "Water trucking", "date": "2022-04-20", "desc": "Emergency water distribution in response to broken water infrastructure.", "benific": 786, "dataset_id": "w8" }, "geometry": { "type": "Point", "coordinates": [ -16.406655851567912, 12.654169738156625 ] } },
+{ "type": "Feature", "properties": { "id": 3, "activity": "Water trucking", "date": "2022-03-24", "desc": "Emergency water distribution in response to broken water infrastructure.", "benific": 1400, "dataset_id": "w8" }, "geometry": { "type": "Point", "coordinates": [ -16.401870239908913, 12.652648729799889 ] } },
+{ "type": "Feature", "properties": { "id": 4, "activity": "Water trucking", "date": "2022-03-29", "desc": "Emergency water distribution in response to broken water infrastructure.", "benific": 1500, "dataset_id": "w8" }, "geometry": { "type": "Point", "coordinates": [ -16.392521603179699, 12.651313210267144 ] } },
+{ "type": "Feature", "properties": { "id": 5, "activity": "Water trucking", "date": "2022-03-16", "desc": "Emergency water distribution in response to broken water infrastructure.", "benific": 1797, "dataset_id": "w8" }, "geometry": { "type": "Point", "coordinates": [ -16.377237324082724, 12.652463240975896 ] } },
+{ "type": "Feature", "properties": { "id": 6, "activity": "Water trucking", "date": "2022-03-24", "desc": "Emergency water distribution in response to broken water infrastructure.", "benific": 1498, "dataset_id": "w8" }, "geometry": { "type": "Point", "coordinates": [ -16.364475692992052, 12.652240654387105 ] } },
+{ "type": "Feature", "properties": { "id": 7, "activity": "Water trucking", "date": "2022-04-05", "desc": "Emergency water distribution in response to broken water infrastructure.", "benific": 1398, "dataset_id": "w8" }, "geometry": { "type": "Point", "coordinates": [ -16.363622444401688, 12.656618190633324 ] } },
+{ "type": "Feature", "properties": { "id": 8, "activity": "Water trucking", "date": "2022-04-28", "desc": "Emergency water distribution in response to broken water infrastructure.", "benific": 1398, "dataset_id": "w8" }, "geometry": { "type": "Point", "coordinates": [ -16.343218673762532, 12.665707143008946 ] } },
+{ "type": "Feature", "properties": { "id": 9, "activity": "Water trucking", "date": "2022-05-05", "desc": "Emergency water distribution in response to broken water infrastructure.", "benific": 1500, "dataset_id": "w8" }, "geometry": { "type": "Point", "coordinates": [ -16.347225232360767, 12.662479637471479 ] } },
+{ "type": "Feature", "properties": { "id": 10, "activity": "Water trucking", "date": "2022-03-24", "desc": "Emergency water distribution in response to broken water infrastructure.", "benific": 1678, "dataset_id": "w8" }, "geometry": { "type": "Point", "coordinates": [ -16.350304346839039, 12.668229791015243 ] } }
+]
+}
