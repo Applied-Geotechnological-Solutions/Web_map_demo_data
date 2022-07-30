@@ -1,0 +1,16 @@
+{
+"type": "FeatureCollection",
+"name": "test_river_stops",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3857" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 1 }, "geometry": { "type": "Point", "coordinates": [ -1840311.370282563846558, 1409272.195181151852012 ] } },
+{ "type": "Feature", "properties": { "id": 2 }, "geometry": { "type": "Point", "coordinates": [ -1835978.814505494665354, 1409184.536449530161917 ] } },
+{ "type": "Feature", "properties": { "id": 3 }, "geometry": { "type": "Point", "coordinates": [ -1832247.347540294518694, 1403620.951511383755133 ] } },
+{ "type": "Feature", "properties": { "id": 4 }, "geometry": { "type": "Point", "coordinates": [ -1830799.475473376223817, 1401893.884513731347397 ] } },
+{ "type": "Feature", "properties": { "id": 5 }, "geometry": { "type": "Point", "coordinates": [ -1830105.016512479633093, 1401782.949265983421355 ] } },
+{ "type": "Feature", "properties": { "id": 6 }, "geometry": { "type": "Point", "coordinates": [ -1831503.638390900101513, 1402372.097158988239244 ] } },
+{ "type": "Feature", "properties": { "id": 7 }, "geometry": { "type": "Point", "coordinates": [ -1833481.993420390412211, 1403199.028174351667985 ] } },
+{ "type": "Feature", "properties": { "id": 8 }, "geometry": { "type": "Point", "coordinates": [ -1838395.169269340811297, 1407678.185665566008538 ] } },
+{ "type": "Feature", "properties": { "id": 9 }, "geometry": { "type": "Point", "coordinates": [ -1840311.370554426684976, 1409272.194902872201055 ] } }
+]
+}
