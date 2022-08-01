@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"name": "river_stops_new",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3857" } },
+"features": [
+{ "type": "Feature", "properties": { "Name": "Mobile Boat Clinic stop 1", "description": "Mobile Boat Clinic offers basic health assessments, medicine deliveries and treatments for beneficiaries in hard to reach areas along waterways." }, "geometry": { "type": "Point", "coordinates": [ -1810772.441208485513926, 1412667.944628561381251 ] } },
+{ "type": "Feature", "properties": { "Name": "Mobile Boat Clinic stop 2", "description": "Mobile Boat Clinic offers basic health assessments, medicine deliveries and treatments for beneficiaries in hard to reach areas along waterways." }, "geometry": { "type": "Point", "coordinates": [ -1831827.732523648766801, 1403389.297316634561867 ] } },
+{ "type": "Feature", "properties": { "Name": "Mobile Boat Clinic stop 3", "description": "Mobile Boat Clinic offers basic health assessments, medicine deliveries and treatments for beneficiaries in hard to reach areas along waterways." }, "geometry": { "type": "Point", "coordinates": [ -1836862.02291138516739, 1400150.991999334190041 ] } },
+{ "type": "Feature", "properties": { "Name": "Mobile Boat Clinic stop 4", "description": "Mobile Boat Clinic offers basic health assessments, medicine deliveries and treatments for beneficiaries in hard to reach areas along waterways." }, "geometry": { "type": "Point", "coordinates": [ -1838569.786351593909785, 1403120.016926874406636 ] } },
+{ "type": "Feature", "properties": { "Name": "Mobile Boat Clinic stop 5", "description": "Mobile Boat Clinic offers basic health assessments, medicine deliveries and treatments for beneficiaries in hard to reach areas along waterways." }, "geometry": { "type": "Point", "coordinates": [ -1822395.65433263243176, 1415281.988668955396861 ] } },
+{ "type": "Feature", "properties": { "Name": "Mobile Boat Clinic stop 6", "description": "Mobile Boat Clinic offers basic health assessments, medicine deliveries and treatments for beneficiaries in hard to reach areas along waterways." }, "geometry": { "type": "Point", "coordinates": [ -1863729.816910522757098, 1410740.774375216569752 ] } }
+]
+}
