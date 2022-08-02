@@ -3,6 +3,6 @@
 "name": "Icon_random_point",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3857" } },
 "features": [
-{ "type": "Feature", "properties": { "Name": "Punkt 1", "description": null, "timestamp": null, "begin": null, "end": null, "altitudeMode": null, "tessellate": -1, "extrude": 0, "visibility": -1, "drawOrder": null, "icon": null }, "geometry": { "type": "Point", "coordinates": [ -3874941.161010972689837, 1124394.125795969739556, 0.0 ] } }
+{ "type": "Feature", "properties": { "Name": "Punkt 1", "description": null, "timestamp": null, "begin": null, "end": null, "altitudeMode": null, "tessellate": -1, "extrude": 0, "visibility": -1, "drawOrder": null, "icon": null }, "geometry": { "type": "Point", "coordinates": [ -1815315.442215883, 1404799.1294523671] } }
 ]
 }
